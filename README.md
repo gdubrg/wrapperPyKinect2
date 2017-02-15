@@ -3,13 +3,13 @@ This is a wrapper of a wrapper, the original wrapper is [PyKinect2](https://gith
 This code provides a fast and useful way to immediately use **Microsoft Kinect One** with **Python**.
 __________________
 |  Kinect device  |
--------------------
+__________________
 |       OS        |
--------------------
+__________________
 |   SDK Kinect    |
--------------------
+__________________
 |    PyKinect2    |
--------------------
+__________________
 |wrapperPyKinect2 |
 ___________________
 
