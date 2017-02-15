@@ -9,11 +9,12 @@ Kinect device -> OS -> SDK Kinect -> PyKinect2 -> wrapperPyKinect2
 **Prerequisites:**
 * PyKinect2 (and all its dependecies, of course) 
 * Microsoft Kinect SDK 2.0 (for Kinect One)
+* OpenCV (tested with 2.4.13)
 
 ***
 
 **How to**
-* `acquisiziotnKinect.py` needs a class like `frame.py` to save data
+* `acquisitionKinect.py` needs a class like `frame.py` to save data
 * `getframe(frame)`
 * That's all!
 
