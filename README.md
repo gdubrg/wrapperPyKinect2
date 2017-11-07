@@ -31,6 +31,8 @@ Kinect device -> OS -> SDK Kinect -> PyKinect2 -> wrapperPyKinect2
 
 **Code sample**
 ```
+from frame import Frame
+from acquisitionKinect import AcquisitionKinect
 ...
 kinect = AcquisitionKinect()
 frame = Frame()
